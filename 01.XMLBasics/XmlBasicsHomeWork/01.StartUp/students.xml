@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<studentsystem xmlns:studentsystem="urn:students">
+  <student>
+    <name>Georgi Petrov</name>
+    <sex>Male</sex>
+    <birthdate>03.11.1991</birthdate>
+    <phone>359887123456</phone>
+    <email>gosho.petrov@gmail.com</email>
+    <course>Second</course>
+    <speciality>Geodesy</speciality>
+    <facultynumber>4259</facultynumber>
+    <takenexams>
+      <exam>
+        <examname>Math</examname>
+        <tutorname>Vasil Petrov</tutorname>
+        <score>98</score>
+      </exam>
+          <exam>
+        <examname>Vertical Planning</examname>
+        <tutorname>Ruska Dimitrova</tutorname>
+        <score>34</score>
+      </exam>
+      <exam>
+        <examname>Geodesy Part One</examname>
+        <tutorname>Bano Banov</tutorname>
+        <score>56</score>
+      </exam>
+    </takenexams>
+  </student>
+    <student>
+    <name>Ivanka Georgieva</name>
+    <sex>Female</sex>
+    <birthdate>03.09.1995</birthdate>
+    <phone>359887654321</phone>
+    <email>i.georgieva@gmail.com</email>
+    <course>Second</course>
+    <speciality>Civil Engineering</speciality>
+    <facultynumber>4591</facultynumber>
+    <takenexams>
+      <exam>
+        <examname>Math</examname>
+        <tutorname>Vasil Petrov</tutorname>
+        <score>31</score>
+      </exam>
+          <exam>
+        <examname>Vertical Planning</examname>
+        <tutorname>Ruska Dimitrova</tutorname>
+        <score>54</score>
+      </exam>
+      <exam>
+        <examname>Geodesy Part One</examname>
+        <tutorname>Bano Banov</tutorname>
+        <score>87</score>
+      </exam>
+    </takenexams>
+  </student>
+  <student>
+    <name>Masha Paskaleva</name>
+    <sex>Female</sex>
+    <birthdate>02.02.1987</birthdate>
+    <phone>359886155318</phone>
+    <email>malkata_paskaleva@gmail.com</email>
+    <course>Fifth</course>
+    <speciality>Landschaft</speciality>
+    <facultynumber>3210</facultynumber>
+    <takenexams>
+      <exam>
+        <examname>Math</examname>
+        <tutorname>Vasil Petrov</tutorname>
+        <score>54</score>
+      </exam>
+          <exam>
+        <examname>Vertical Planning</examname>
+        <tutorname>Ruska Dimitrova</tutorname>
+        <score>87</score>
+      </exam>
+      <exam>
+        <examname>Geodesy Part One</examname>
+        <tutorname>Bano Banov</tutorname>
+        <score>99</score>
+      </exam>
+    </takenexams>
+  </student>
+</studentsystem>

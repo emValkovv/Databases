@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<listofalbums>
+  <album>
+    <name>Za horata ot drugata strana na mikrofona</name>
+    <artist>F.O.</artist>
+    <year>2014</year>
+    <producer>MFZanimation</producer>
+    <price>20</price>
+    <listofsongs>
+      <song>
+        <title>Nqma chakai</title>
+        <duration>3:51</duration>
+      </song>
+      <song>
+        <title>Vreli Akapeli</title>
+        <duration>2:43</duration>
+      </song>
+      <song>
+        <title>Orem Asvalt</title>
+        <duration>4:02</duration>
+      </song>
+    </listofsongs>
+  </album>
+  <album>
+    <name>Aho Ihu</name>
+    <artist>F.O.</artist>
+    <year>2016</year>
+    <producer>MFZanimation</producer>
+    <price>25</price>
+    <listofsongs>
+      <song>
+        <title>Moje Bi</title>
+        <duration>4:51</duration>
+      </song>
+      <song>
+        <title>Aho Ihu</title>
+        <duration>1:43</duration>
+      </song>
+      <song>
+        <title>Vreme za dishane</title>
+        <duration>3:22</duration>
+      </song>
+    </listofsongs>    
+  </album>
+  <album>
+    <name>Dostapen</name>
+    <artist>Dim4ou</artist>
+    <year>2014</year>
+    <producer>Flagman Music</producer>
+    <price>18</price>
+    <listofsongs>
+      <song>
+        <title>420</title>
+        <duration>3:31</duration>
+      </song>
+      <song>
+        <title>Ass up</title>
+        <duration>3:23</duration>
+      </song>
+      <song>
+        <title>Gospodari na efira</title>
+        <duration>5:02</duration>
+      </song>
+    </listofsongs>
+  </album>
+</listofalbums>

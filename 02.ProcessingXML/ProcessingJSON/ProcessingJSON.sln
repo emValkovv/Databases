@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DownloadFileRSS", "02.DownloadFileRSS\02.DownloadFileRSS.csproj", "{EDEC6815-7C6F-4563-9011-650911D2824B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.XMLToJSON", "03.XMLToJSON\03.XMLToJSON.csproj", "{CCE873F3-FB34-4528-A867-136DF095E8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SelectAllVideosTitlesLINQ", "04.SelectAllVideosTitlesLINQ\04.SelectAllVideosTitlesLINQ.csproj", "{6C470575-C75E-43EA-B250-433C9B234ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.JsonToPoco", "05.JsonToPoco\05.JsonToPoco.csproj", "{379326D3-5F10-4549-943E-0AF9E5444D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEC6815-7C6F-4563-9011-650911D2824B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEC6815-7C6F-4563-9011-650911D2824B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEC6815-7C6F-4563-9011-650911D2824B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEC6815-7C6F-4563-9011-650911D2824B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE873F3-FB34-4528-A867-136DF095E8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE873F3-FB34-4528-A867-136DF095E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE873F3-FB34-4528-A867-136DF095E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE873F3-FB34-4528-A867-136DF095E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C470575-C75E-43EA-B250-433C9B234ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C470575-C75E-43EA-B250-433C9B234ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C470575-C75E-43EA-B250-433C9B234ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C470575-C75E-43EA-B250-433C9B234ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379326D3-5F10-4549-943E-0AF9E5444D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379326D3-5F10-4549-943E-0AF9E5444D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379326D3-5F10-4549-943E-0AF9E5444D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379326D3-5F10-4549-943E-0AF9E5444D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
